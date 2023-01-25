@@ -1,7 +1,7 @@
 {
 "version":10,
-"show":true,
-"boo":false,
+"show":false,
+"boo":true,
 "openads":"",  
 "banner":"ca-app-pub-3074013121173926/4050202949", 
 "native":"ca-app-pub-3074013121173926/3667059567", 
