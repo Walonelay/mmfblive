@@ -1,6 +1,6 @@
 {
 "version":12,
-"show":true,
+"show":false,
 "boo":true,
 "customads":false,
 "openads":"",  
