@@ -2,6 +2,7 @@
 "version":12,
 "show":true,
 "boo":true,
+"customads":true,
 "openads":"",  
 "banner":"ca-app-pub-3074013121173926/4050202949", 
 "native":"ca-app-pub-3074013121173926/3667059567", 
@@ -17,7 +18,7 @@ Lu Gyi ဇာတ်ကားတွေ လည်း အများကြီး �
 "main":"https://apkguidemm.net/lee/", 
 "interstial":"ca-app-pub-3074013121173926/2795178636",
 "fullads":"",
-"bannerads":"",
+"adsimg":"",
 "fulllink":"https://media.api-sports.io//football//teams//81.png",
-"bannerlink":""
+"adslink":""
 }
