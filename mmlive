@@ -2,7 +2,7 @@
 "version":12,
 "show":false,
 "boo":true,
-"customads":false,
+"customads":true,
 "openads":"true",
 "streamads":"true", 
 "hlads":"true", 
