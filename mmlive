@@ -5,7 +5,7 @@
 "homeAds":1,
 "streamAds":1,
 "customads":true,
-"openads":"false",
+"openads":"true",
 "streamads":"false", 
 "hlads":"true", 
 "title":"Version 1.6.9
