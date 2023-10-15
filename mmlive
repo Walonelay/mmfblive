@@ -1,6 +1,6 @@
 {
-"version":12,
-"show":false,
+"version":14,
+"show":true,
 "boo":true,
 "homeAds":2,
 "streamAds":1,
@@ -8,7 +8,7 @@
 "openads":"false",
 "streamads":"false", 
 "hlads":"true", 
-"title":"Version 1.6.9
+"title":"Version 1.7.6
 ထွက်ခဲ့ပါပြီ......😍😍😍",
 "dialog":"movie ",
 "about":"Football Live တွေ ကြည့်ရတာ အရင်ထက် အဆင်ပြေမယ်
