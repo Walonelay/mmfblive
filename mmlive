@@ -1,7 +1,7 @@
 {
-"version":14,
+"version":22,
 "show":true,
-"boo":true,
+"boo":false,
 "homeAds":2,
 "streamAds":1,
 "customads":true,
